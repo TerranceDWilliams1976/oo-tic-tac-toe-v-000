@@ -3,3 +3,7 @@ class TicTacToe
     @board = Array.new(9, " ")
   end
 end
+
+def display_board(board)
+  
+end
