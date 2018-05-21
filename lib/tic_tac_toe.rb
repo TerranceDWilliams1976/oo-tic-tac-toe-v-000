@@ -4,7 +4,7 @@ class TicTacToe
 end
 
   def board=(board)
-    @board = Array.new(9, " ")
+    @board
 end
 
 def board
